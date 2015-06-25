@@ -1,0 +1,5 @@
+C:\Project VIsual studion\Exercise-Inheritance-and-Abstraction-OOP\BookShop\bin\Debug\BookShop.exe
+C:\Project VIsual studion\Exercise-Inheritance-and-Abstraction-OOP\BookShop\bin\Debug\BookShop.pdb
+C:\Project VIsual studion\Exercise-Inheritance-and-Abstraction-OOP\BookShop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project VIsual studion\Exercise-Inheritance-and-Abstraction-OOP\BookShop\obj\x86\Debug\BookShop.exe
+C:\Project VIsual studion\Exercise-Inheritance-and-Abstraction-OOP\BookShop\obj\x86\Debug\BookShop.pdb
